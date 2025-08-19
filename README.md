@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
 
 🔭 I’m currently working on ****<br><br>
-🌱 I’m currently learning **JAVA****Machine Learning**, **Data Science** And **Full Stack(MERN)**.<br><br>
+🌱 I’m currently learning **JAVA**,**Machine Learning**, **Data Science** And **Full Stack(MERN)**.<br><br>
 👯 I’m looking to collaborate on **Lagal_AI**<br><br>
 📫 How to reach me **ak6393539993@gmail.com**<br><br>
 ⚡**Fun Fact**: Anime fuels my imagination, and gaming sharpens my focus.
